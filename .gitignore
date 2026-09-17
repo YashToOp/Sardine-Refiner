@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+Tasks/*.md
+!Tasks/.gitkeep
+.DS_Store
+Thumbs.db
